@@ -1,0 +1,1328 @@
+ 1.0 IT Concepts and Terminology
+
+    1.1 Compare and contrast notational systems.
+
+        1.How do computers differentiate binary data and map it to letters, numbers, and symbols?
+         - A character set maps letters, numbers, and symbols to binary values.
+        2.Which notation system presents the largest numbers using the fewest digits?
+         - Hexadecimal        
+        3.What is the most common character set used for coding to represent text in computers?
+         - American Standard Code for Information Interchange (ASCII)        
+        4.How is binary notation expressed?
+         - A single digit in a range from 0 to 1 is used. This number represents an on or off state. 
+         Each column is worth two times the column to its right. This is also known as base 2.       
+        5.What is the decimal number 75 in hexadecimal notation?
+         -4B.
+        6.How is decimal notation expressed?
+         - Each single digit is assigned one of ten values ranging from 0-9 whereby each column is ten times
+        more than the digit to its right. This is also known as base 10.
+        7.When should you use hexadecimal notation?
+         - To express large numbers
+
+    1.2 Compare and contrast fundamental data types and their characteristics. 
+
+        1.How are integers represented?
+         - Whole numbers that are in base 10, such as 5, 21, or 65536       
+        2.How much storage space is consumed by the character data type?
+         - A single byte       
+        3.How much storage space is consumed by the Boolean data type?
+         - A single bit       
+        4.How much storage space is consumed by the floating point number data type.
+         - Between 4 and 8 bytes
+        5.Which of the following is the correct syntax of using an escape character to include a quote character in a string definition?
+         - “John said \’Hello World\’ then left again.”
+        6.Which of the following data types can NOT store the number 3?
+         - Boolean 
+        7.What limitation is placed on a number when it is entered as a character data type?
+         - You cannot perform mathematical operations on it.
+        8.The value “CompTIA” is a representation of which data type?
+         - String
+        9.How much storage space is consumed by the integer data type?
+         - Between 1 and 8 bytes
+        10.What fundamental data type is used to support decimal fractions such as 4.1, 26.4, and 5.62?
+         - Floating point numbers or just “float”
+        11.How is the amount of storage that can be used by a string limited?
+         - There is no limitation to the amount of storage used by a string.
+        12.Why is it important to understand the different data types that a computer program can use?
+         - The data type determines what sort of operations can be performed.
+        13.What special numeric data type indicates that something is either TRUE or FALSE?
+         - Boolean values
+
+    1.3 Illustrate the basics of computing and processing.
+
+        1.What three elements are required for a computer to perform useful tasks?
+         - Hardware, software, and the computer user
+        2.How does a user receive information from a computer?
+         - Data is shown or displayed to the user through an output device.
+        3.What is the most common use for peripheral devices in a computer?
+         - To enter information as input or deliver to the user as output
+        4.Why do computers save or write data to a storage device?
+         -Data running on system memory is only preserved while the computer is powered up.
+        5.How does a computer receive data entered by a user?
+         -Through the use of peripheral devices, such as mice and keyboards
+        6.What is the difference between hardware and software?
+         - Software refers to a collection of data or computer instructions that tell
+        the computer how to work. Hardware is the set of physical components that make up the system and perform the work.
+        7.What are peripheral devices?
+         - The parts of a computer system that are not contained within the case
+        8.When a computer writes data to memory and manipulates that data, the computer is said to be doing what?
+         - The computer is using the CPU to act on instructions from the operating system and application software.
+        9.How is computer data defined?
+         - Information shared in an IT system using nothing more complicated than the binary digits 1 and 0
+        10.What systems use a Central Processing Unit (CPU) and memory?
+         - All types of computers
+
+    1.4 Explain the value of data and information.
+
+        1.When does data become information?
+         - When it is applied to some purpose and adds timely value for the recipient
+        2.What activities must one perform to make data-driven business decisions?
+         - Capture data, correlate the data, and convert it into meaningful reports
+        3.Which of these is NOT a positive trait of a digital product in regard to the value assigned to information and data?
+         - Digital sales through peer-to-peer transactions make it easier to sell information without the oversight of an institutional set of rules.
+        4.What is a data breach?
+         - When your network exposes private data publicly, whether or not the data is actively stolen
+        5.What is used to protect a name or logo?
+         - A trademark protects a unique element such as a company name or logo.
+        6.What do you call an action through which someone uses, makes, sells, or imports your invention without your permission?
+         - Patent infringement
+        7.What is the first step needed to begin a data-driven business decision?
+         - Set-up of a data capture and collection system
+        8.What is an example of a digital product?
+         - A video download
+        9.Which is NOT a reason cybersecurity is important?
+         - The effectiveness of defense methods is decreasing.
+        10.Which of these is NOT an example of security controls?
+         - Audits and inventories
+        11.Which of the following is a disadvantage of a semi-structured data warehouse for storing information?
+         - The traditional relational data model has a popular and ready-made query language, SQL.
+        12.What is a copyright used for?
+         - It is a legal protection granted to certain types of work that gives its holder the right to control the use of the work, including rights of publication, distribution, or sale.
+        13.What is data correlation?
+         - The process of analyzing the whole data set and finding connections and links between data points
+        14.In Information Technology (IT) terminology, what is ROSI and how do you calculate it?
+         - Return on Security Investment; to calculate ROSI, you perform risk assessments to work out how much the loss of data would cost your organization and how likely it is that data loss might occur when an attacker removes data from your network without authorization.
+        15.Which of the following statements about the protection of data is true?
+         - Data can be considered an asset and as such it has commercial value.
+        16.What is a data exfiltration?
+         - A security breach that occurs when an individual’s or organization’s data is illegally copied with or without their knowledge
+        17.How do you protect an idea or invention without actually creating an example of it?
+         - You can patent it.
+        18.How is intellectual property protected?
+         - Intellectual property can be protected through trademarks, copyrights, and patents.
+        19.What invention was created to try to enforce copyright protection on digital products?
+         - Digital Rights Management (DRM) systems
+        20.What is used in lieu of a copyright to protect a name or logo?
+         - A trademark
+        21.Why is meaningful reporting an important factor of data-driven business decisions?
+         - It allows a human to analyze and interpret the information.
+
+    1.5 Compare and contrast common units of measure.
+
+        1.Newer hard disks and other large storage networks can be measured in what unit?
+         - Terabyte, or 1000 GB
+        2.What unit is used to measure large storage network and cloud systems?
+         - Petabyte, or 1000 TB
+        3.What is the first multiple of a bit?
+         - The byte, which represents eight bits
+        4.What is the basic unit of computer data?
+         - The binary digit or bit, which can represent two values (0 or 1)
+        5.What throughput capacity is found in major telecommunications links between data centers, cities, and countries?
+         - Tbps, or 1,000,000,000,000 bits per second
+        6.Wireless networks and residential Internet links typically have what throughput speed?
+         - Mbps, or 1,000,000 bits per second
+        7.The latest PC bus standards and networks can support what higher level of throughput speed?
+         - Gbps, or 1,000,000,000 bits per second
+        8.What unit of measure is used to describe disk capacity?
+         - The Gigabyte (GB), which is 1000 x 1000 x 1000 bytes
+        9.Modern Central Processing Units (CPUs) and bus types plus fiber optic network equipment work at what signal speed?
+         - Gigahertz (GHz) or 1000 million cycles per second
+        10.Medium to large files are measured in what unit?
+         - The Megabyte (MB), which is 1000 x 1000 bytes
+        11.Small files are often measured in what unit?
+         - Kilobyte (KB), or 1000 bytes
+        12.Older computer peripheral interfaces and slow network links are measured in what type of throughput unit?
+         - Kbps, or 1000 bits per second
+        13.Older bus interfaces and many types of network interfaces work at what signal speed?
+         - MHz, or 1 million cycles per second
+        14.When data is transferred between components in the computer or between computers over a network, the throughput rate is measured in what unit?
+         - Bits per second (bps)    
+
+    1.6 Explain the troubleshooting methodology.
+
+        1.You are advising a colleague about best practices when troubleshooting. You have suggested the following actions to help identify the problem: Gather information, duplicate the problem, question users, identify symptoms, and approach multiple problems individually.
+         - Determine if anything has changed.
+        2.If you plan on diagnosing a problem by searching technical forums or other Internet resources, what information should you provide if you are getting an error message?
+         - The exact text of the error message.
+        3.Manufacturer websites are a great source for what types of resources?
+         - Manuals, drivers, and knowledge bases
+        4.What command would you use if you wanted a computer to drop its current IP address?
+         - ipconfig /release
+        5.In which step of the troubleshooting process do you question the obvious?
+         - The third step, in which you establish a theory of probable cause
+        6.What is the most important question to ask a user when trying to determine what a problem is, and why?
+         - Ask “What has changed?” because the thing that has changed is usually responsible for the problem.
+        7.During the troubleshooting process, what should you do if implement a solution but find that it didn't solve the problem as anticipated?
+         - Establish a new theory or escalate.
+        8.If there are errors during the Power-On Self-Test (POST), how does the computer tell you what the problem is?
+         - It emits a sequence of beeps that act as a code for the type of problem.
+        9.What command would you use if you wanted the computer to obtain an IP address from the network host?
+         - ipconfig /renew
+        10.What is the last step of the troubleshooting process?
+         - Document your findings, actions, and outcomes in a knowledge base.
+        11.After resolving a problem for a user, what can you do to help avoid similar problems in the future?
+         - Document lessons learned and implement preventive measures.
+        12.If technicians are attempting to replicate a problem reported by a user, what are they doing?
+         - Trying to cause the issue to happen again so they can see it for themselves
+        13.If you are experiencing a problem caused by an outdated driver, where should you look to update it?
+         - The Support section of the manufacturer's website
+        14.You cannot access the wireless network. In Device Manager, you see a small red X near the network adapter. What does this indicate?
+         - The device has been disabled.
+        15.What command would you enter if you wanted to test the integrity of the E drive and repair any errors that are found?
+         - chkdsk E: /f
+        16.Why should you consult your hardware manufacturer's documentation prior to attempting a Do-It-Yourself fix?
+         - You might void your warranty if you tinker with the hardware.
+        17.How should you approach troubleshooting when there are multiple levels of work?
+         - Consider multiple approaches, prioritize each level, and divide and conquer.
+        18.If you purchase and install a third-party graphics card into your workstation, what should you do to ensure its proper operation?
+         - Disable the onboard graphics card.
+        19.Why is it important to ask a user questions when first hearing about a problem?
+         - To help you classify the problem in terms o1f nature and scope
+        20.You just connected a monitor to your VGA port, but the monitor is showing the same thing that is on your laptop screen. What do you need to do in order to have different applications open on each display?
+         - You need to go to the Display options and select the option to extend the desktop across all displays.
+        21.What is a symptom of a computer's power supply beginning to fail?
+         - Computer reboots randomly, usually on startup.
+        22.Once a theory is confirmed, meaning that you have found the root cause of a problem, what should you do next?
+         - Determine the next steps to resolve the problem.
+        23.What is a symptom of an overheating computer?
+         - The computer locks up, freezes, or shuts down.
+        24.What would you need to do if you wanted a computer to always look for a bootable CD before looking to the local hard drive?
+         - Set the BIOS boot sequence to check the optical drive before the hard disk drive.
+        25.While you are performing troubleshooting, a program is not responding and will not close when the exit button is clicked. How can you end the frozen program without losing your other work?
+         - Press Ctrl+Alt+Del, start the Task Manager, and end the task from the Applications tab.
+        26.What is the first step in the CompTIA troubleshooting model?
+         - Identify the problem by gathering information.
+        27.What should you do when you suspect that there are multiple issues to troubleshoot?
+         - Address each issue individually.
+        28.You notice that your monitor is flickering a lot. What is a likely explanation for this issue?
+         - The refresh rate may be too low or too high.
+        28.You press the power button on a computer, but it does not start. What is the first thing that you should do when diagnosing this problem?
+         - Check physical connections and power sources.
+        29.When you start a troubleshooting discussion with a user, what should you have them do?
+         - Give you the status of the computer, including any error messages or unusual conditions.
+        30.When you start a troubleshooting discussion with a user, what should you have them do?
+         - Give you the status of the computer, including any error messages or unusual conditions.
+        31.After performing the standard troubleshooting steps, your built-in Ethernet port still isn't functioning. Which option should you check before escalating the problem?
+         - The system BIOS
+        32.What are grinding noises coming from the system most likely a warning sign of?
+         - The hard drive is physically damaged.
+        33.What should you do before you put a plan into action?
+         - Consider the possible outcomes of the fix action.
+
+2.0 Infrastructure
+
+    2.1 Classify common types of input/output device interfaces.
+
+        1.What type of device would you connect using a Digital Visual Interface (DVI) port?
+         - A form of flat-panel display equipment
+        2.What would you use a Near Field Communication connection for?
+         - A contactless payment reader
+        3.What type of connector would you use to connect a wired router to an Ethernet network?
+         - RJ-45 
+        4.What type of USB connector would you plug into a host?
+         - USB Type A
+        5.What does the High Definition Multimedia Interface (HDMI) not provide between equipment?
+         - Power to the connected device
+        6.Which USB standard has a rate of 480 Mbps?
+         - USB 2.0
+        7.What is the main purpose of the Thunderbolt interface?
+         - It is used as a display interface and general peripheral interface.
+        8.Which statement about Firewire or USB is true?
+         - Both ends of a Firewire cable are the same.
+        9.For which reason would you use a Bluetooth Class 1 device with a range of 100m?
+         - As an industrial application
+        10.What is the standard resolution of the Video Graphics Array (VGA)?
+         - A resolution of 640x480 with 4-bit color
+        11.After connecting a new monitor to your computer, you get a message saying the monitor is not set at the optimal resolution. Which Windows applet would you use to change the resolution?
+         - Display
+        12.Into which device would you plug an RJ-11 connector?
+         - A standard telephone
+        13.You need to increase the system memory of your laptop and decide to research the types of memory available. Which would fit in your laptop?
+         - SODIMM
+        14.Who created Mini DisplayPort?
+         - Apple
+        15.Which device is categorized as a Human Interface Device (HID)?
+         - Mouse
+        16.Which HDMI connector is also known as the Mini HDMI?
+         - HDMI Type C
+        17.What type of connection would you use to connect short-range wireless devices such as a keyboard or a mouse to a computer?
+         - Bluetooth
+        18.Who created DisplayPort?
+         - Video Electronics Standards Association (VESA)
+        19.Which peripheral device fills cells with color and uses transistors to vary intensity?
+         - Monitor
+        20.You just bought a new smartphone that did not come with the necessary USB charging cable. In the instructions booklet, a picture of the charging cable depicts the device end of the cable as being flat on both sides and reversible. What type of cable do you need?
+         - USB Type C
+        21.What type of device would use Radio Frequency (RF)?
+         - A wireless router
+        22.What type of device uses Digital Light Processing (DLP)?
+         - Digital projector
+        23.Which connector is a legacy analog video interface?
+         - VGA
+        24.You need to back up just over 9 GB of data from your hard drive to an optical disc so you can store it offsite. You want to use just one disc to keep costs down, and you want to leave as little unused space on the disc as possible. What type of optical media should you use?
+         - DVD-10 (Digital Video Disc)
+
+    2.2 Given a scenario, set up and install common peripheral devices to a laptop/PC.
+
+        1.You have multiple monitors connected to your computer. How would you configure the screens to give you more "real estate" available for viewing?
+         - Use the "Extend these displays" setting.
+        2.You have a new Apple workstation and you are looking for a port on the machine where you can plug in either a monitor or a peripheral. What type of port would you use?
+         -Thunderbolt
+        3.You are removing an old device from your computer and want to ensure all of the old drivers are gone. Where in Windows would you go to delete the drivers?
+         - Go to the Device Manager folder, right-click the device, and select "Uninstall Device."
+        4.You have a new external hard drive. Which of these ports could be used to connect to the device?
+         - Thunderbolt
+        5.You added a speaker add-in card to your desktop computer and want to connect the card to an amplifier. Which color collar would the port you need have?
+         - Lime
+        6.Your new "Plug-and-Play" printer is not installing properly, even though Windows tried to find a driver using Windows Update. What else can you do to install the device?
+         - Obtain a device driver from the manufacturer.
+        7.Your keyboard no longer works and is not fixable. You look in the closet and find an old dusty keyboard with a cable that ends in a 6-pin purple-colored connector. What type of connector have you found?
+         - PS/2
+        8.You are using a scanner to scan a Word document into your computer. What type of software would you use to convert the image into a computer-editable text document?
+         - OCR
+        9.You added a Small Office Home Office (SOHO) access point to your home network. How would you access the management page for the device?
+         - Type the device's IP address into your web browser.
+        10.You need to move the pictures from your digital camera to your computer. Which type of connection would NOT allow you to do this?
+         - Ethernet
+        11.You have recently upgraded from a USB mouse to a wireless mouse. Once you remove the old mouse, what do you need to install to connect the wireless mouse to the computer?
+         - A wireless adapter
+        12.You have a new printer to install on your Windows computer. Where would you go in Windows to configure user-configurable settings for the printer?
+         - The Devices and Printers folder
+        13.Your new device has a web-based configuration. What do you need to access the configuration page?
+         - The Internet Protocol (IP) address 
+
+    2.3 Explain the purpose of common internal computing components.
+
+        1.What function does the Central Processing Unit (CPU) perform in a computer?
+         - It retrieves each instruction or data file from memory and performs an action on it.
+        2.Which is NOT carried by the expansion bus?
+         - System memory data
+        3.Which of these is a hard drive interface standard?
+         - EIDE
+        4.What type of central processor would you find in a tablet?
+         - An Atom brand Central Processing Unit (CPU)
+        5.What type of central processor would you find in a mobile phone?
+         - An Advanced RISC Machine (ARM) Central Processing Unit (CPU)
+        6.What type of Network Interface Card (NIC) uses the 802.11b protocol?
+         - A wireless network (Wi-Fi) card
+        7.Which of these is NOT part of a motherboard?
+         - A Solid State Drive (SSD)
+        8.Which of the following is a limitation of a 32-bit processor in a workstation?
+         - It cannot use more than 4 GB of system memory.
+        9.How are onboard and add-on Network Interface Cards (NIC) different?
+         - Onboard cards and add-on cards operate in the same way.
+        10.What is used to connect chipsets and sockets using buses?
+         - The motherboard
+        11.Which is the most important processor on a motherboard?
+         - Central Processing Unit (CPU)
+        12.What type of Central Processing Chip (CPU) would a modern high-end server use?
+         - A 64-bit EM64T chip
+        13.Which brand of Central Processing Unit (CPU) would be found in a laptop?
+         - Core Duo
+        14.What part of the Central Processing Unit (CPU) determines whether it is 32-bit or 64-bit?
+         - The General Purpose (GP) register
+        15.Where would you find the Front Side Bus (FSB) in a computer?
+         - On the motherboard
+        16.How is a Graphics Processing Unit (GPU) different from a Central Processing Unit (CPU)?
+         - The GPU is a dedicated processor for display functions.
+        17.Where would you place data for long-term storage?
+         - Hard disk drive
+        18.What is the main difference between a Solid State Drive (SSD) and a Hard Disk Drive (HDD)?
+         - The SSD uses flash memory and the HDD uses platters.
+        19.What is the purpose of Random Access Memory (RAM)?
+         - It stores programs and data when the computer is running.
+        20.Which brand of Central Processing Unit (CPU) would be found in a 32-bit server?
+         - Opteron
+        21.What type of cooling system would be best in a high-performance overclocked computer system?
+         -Active liquid cooling
+        22.A register is found within what part of the computer?
+         - The Central Processing Unit (CPU)
+        23.Which type of laptop would NOT use a 64-bit Central Processing Unit (CPU)?
+         - A budget laptop designed for a low price tag.
+        24.After a computer starts up, when does the firmware or BIOS (Basic Input/Output System) run?
+         - After the computer completes initial checking for hardware errors
+        
+    2.4 Compare and contrast common Internet service types.
+
+        1.Which system uses an automatically generated Service Set Identifier (SSID) and encryption keys to configure wireless networks?
+         - Wi-Fi Protected Setup (WPS)
+        2.Which standard is the best choice for encrypting your wireless network?
+         - WPA2 (Wi-Fi Protected Access 2)
+        3.What type of connector would you use on the Wide Area Network (WAN) port of a Digital Subscriber Line (DSL) modem?
+         - RJ-11
+        4.What type of network technology would use DOCSIS?
+         -Cable Access TV (CATV)
+        5.Which wireless standard provides a 54 Mbps maximum transfer rate?
+         - 802.11g
+        6.What type of fiber optic networking solution is widely deployed in urban areas?
+         - Fiber Optic to the Curb (FTTC)
+        7.What is the major technical issue in using a satellite network connection?
+         - Latency problems within the system
+        8.Which of these cellular standards has the fastest top data rate?
+         - Long Term Evolution (LTE)
+        9.Which type of device connects computers together in an Ethernet Local Area Network (LAN)?
+         - A switch
+        10.Which of the following is NOT a Radio Frequency means of creating a wireless network?
+         - Near Field Communication (NFC)
+        11.What type of system would use a Hybrid Fiber Coax (HFC) connection?
+         - A Cable Access TV provider that also has Internet service
+    
+    2.5 Compare and contrast storage types.
+
+        1.Which of these uses volatile memory?
+         - SO-DIMM
+        2.Which of these is acting as a local file server?
+         - The Network Attached Storage (NAS) device on the network
+        3.Which of the following is a correct Universal Naming Convention (UNC) format for a shared folder?
+         - \\GTSLEARNING\DocShare
+        4.Which protocol is designed to upload and download files between clients and servers?
+         - FTP
+        5.What type of storage device is a hybrid device?
+         - SSD
+        6.Using a bare metal backup allows you to skip which step of restoration?
+         - Installing an Operating System (OS)
+        7.Which networking feature did Microsoft recently discontinue in updated Windows 1803?
+         - Homegroups
+        8.What type of operating system do most Network Attached Storage (NAS) devices use?
+         - Linux
+        9.Which format does NOT use a laser to read the data?
+         - Flash
+        10.What is the name of the cloud storage agent built into the latest versions of Windows?
+         - OneDrive
+        11.Which of these would NOT use flash memory?
+         -Synchronous Dynamic RAM (SDRAM)
+        12.Which type of memory is used for system memory?
+         - RAM
+        13.Where is your data stored if you store it on the "cloud"?
+         - On a server hosted by a service provider
+
+    2.6 Compare and contrast common computing devices and their purposes.
+
+        1. What functionality does an Internet of Things (IOT) home appliance provide to a homeowner?
+         - The ability to check inventory levels or start a washing machine cycle remotely
+        2.What critical point must be considered when building a "smart" or "digita"” home automation solution?
+         - Compatibility between the networking or communication standards supported by the hub and the appliances
+        3.What functionality does an Internet Protocol (IP) camera provide to a business owner?
+         - The ability to see a coverage area through either direct connect or snapshots uploaded to the cloud
+        4.What functionality does an Internet of Things (IOT) thermostat provide to a homeowner?
+         - The ability to control heating, ventilation, and air conditioning (HVAC) from an app installed on a phone
+        5.What is an example of an Internet of Things (IoT) device?
+         - A smart light bulb
+        6.What is the difference between a smartphone and a feature phone?
+         - A feature phone is an older device with limited software functionality.
+        7.What functionality does an Internet of Things (IOT) security system provide to a homeowner?
+         - The ability to monitor and control alarms, locks, lighting, and videophone entry systems remotely
+        8.What design consideration can typically be found in a workstation computer?
+         - The device requires peripheral devices connected to the motherboard via ports.
+        9.What is a benefit of an Internet of Things-enabled (IoT-enabled) medical device?
+         - Doctors and nurses can monitor a patient and potentially adjust dosage levels remotely.
+        10.What design consideration can typically be found in a laptop?
+         - To use different system components that are smaller, lighter, and draw less power
+        11.What functionality does an Internet of Things (IOT) streaming media device provide to a homeowner?
+         - The ability to play stored content through any smart speaker or TV connected to the home network
+        12.What design consideration can typically be found in a gaming console?
+         - The device is optimized to use an HDTV as the primary display and a wireless controller for input.
+        13.Which of the following is NOT an example of IoT functionality in modern cars?
+         - Systems that begin the vehicle wash cycle so that it finishes at a specific time
+        14.What design consideration can typically be found in a server?
+         - The device has extra copies of many components to make the system more fault tolerant.
+        15.What feature does a laptop have that a tablet does not?
+         - A physical QWERTY keyboard
+
+    2.7 Explain basic networking concepts.
+
+        1.The Post Office Protocol v3 (POP3) protocol is for incoming mail. Which protocol is used for outgoing mail?
+         - SMTP
+        2.What device is capable of performing packet switching?
+         - A router
+        3.What protocol is used to retrieve email from a server and supports multiple clients connecting to the same mailbox simultaneously?
+         - Internet Message Access Protocol (IMAP)
+        4.What hardware device is used to obtain Internet access when the service provider delivers a coaxial cable?
+         - A modem
+        5.How many Ethernet LAN ports are typically found on a Small Office Home Office (SOHO) network switch?
+         - Four to eight
+        6.What limitation should you be aware of when applying Media Access Control (MAC) filtering on your network devices?
+         - You will need to modify the safe list for each new authorized client device going forward.
+        7.Which is NOT a key function of a Small Office Home Office (SOHO) wireless router?
+         - It provides access to 3G and 4G networks.
+        8. What is packet switching?
+         - The ability of one computer to forward information to another using any available pathway
+        9.What does Internet Message Access Protocol 4 (IMAP4) allow a user to do that Post Office Protocol 3 (POP3) does not?
+         - View the same email from many different devices
+        10. What is the networking term that describes the total time it takes a data packet to travel from one node to another?
+         - Latency
+        11.What protects a network by denying specific types of incoming traffic?
+         - A firewall appliance
+        12.What usually happens to email messages when a client accesses them using the Post Office Protocol v3 (POP3)?
+         - The messages are downloaded to the client and deleted from the server.
+        13.How does a Uniform Resource Locator (URL) get translated to an Internet Protocol (IP) address?
+         - Using the Domain Name System (DNS) resolution process
+        14.What is the advantage of downloading files from a site that begins with HTTPS as opposed to HTTP?
+         - The HTTPS site uses SSL/TLS to encrypt data and provide a secure connection.
+        15.Which of the following is NOT a valid IP address?
+         - 192.168.1.256
+        16.What is the primary difference between a LAN and a WAN?
+         - The geographic distance between the devices that are being networked
+        17.Which feature of a wireless router allows you to specify precisely which wireless clients may join your network?
+         - MAC filtering
+        18.Which term describes a group of computers and devices that share resources without a router within a small geographical area?
+         - LAN
+        19.What is the basic function of a router?
+         - It forwards TCP/IP packets between dissimilar networks.
+
+    2.8 Given a scenario, install, configure and secure a basic wireless network.
+
+        1.Which type of encryption should be avoided when configuring a wireless router?
+         - WEP
+        2.What is a Service Set Identifier (SSID) and how is it used?
+         - A series of alphanumeric characters used to identify a WAP and all the devices attached to it
+        3.How can you confirm that you have properly configured a Small Office Home Office (SOHO) wireless router?
+         -A wireless client can connect to the router.
+        4.Which wireless standard would give newer devices the maximum possible transfer rate?
+         - 802.11ac
+        5.Which 802.11 wireless standard has the greatest rate of data throughput?
+         - 802.11ac
+        6.How does attenuation affect wireless networking?
+         - A loss of signal strength reduces the data transfer rate.
+        7.Which wireless encryption standard improves on Wired Equivalent Privacy (WEP) by adding the Temporal Key Integrity Protocol (TKIP)?
+         - WPA
+        8.What is a captive portal?
+         - A secure login page presented to a client after connecting to an open access point
+        9.When would open authentication be appropriate for a wireless network?
+         - When the network is completely public and intended for everyone
+        10.Which is NOT a likely cause of Wi-Fi signal interference?
+         - Bluetooth devices
+        11.Which wireless encryption standard improves security by adding Advanced Encryption Standard (AES) cipher-based authentication?
+         - WPA2
+        12.What step should be performed as early as possible when configuring a wireless access point?
+         - Changing the default password
+        13.What is a best practice for the Service Set Identifier (SSID) of a wireless router?
+         - It should be changed to a more unique name or have its broadcast disabled.
+        
+3.0 Applications and Software
+
+    3.1 Manage applications and software.
+
+        1.Which of these is NOT considered an aspect of a Type 1 hypervisor?
+         - A Type 1 hypervisor runs as a software application "within" a host's operating system.
+        2.In the Windows operating system, where do you navigate to when you want to install new operating system features?
+         - Control Panel
+        3.Which statement about an embedded operating system is true?
+         - An embedded system is a computer system or appliance designed for a very specific function.
+        4.What is the basic function of an operating system?
+         - Providing an interface between user and machine
+        5.What manages memory on a computer?
+         -The operating system will do the best job it can with the resources available.
+        6.What is a hotfix?
+         -An update that is typically issued on an emergency basis to address a specific security vulnerability
+        7.Which option is NOT among the basic functions of an operating system?
+         -Providing productivity applications such as word processing and spreadsheets
+        8.Which of the following is NOT an example of a workstation operating system?
+         - A mobile device operating system like Apple iOS
+        9.Which of the following is an open source mobile operating system?
+         - Android
+        10.In which situation would Windows Disk Defragmenter be helpful?
+         - Performance is being affected by used and free storage areas on a hard disk being greatly scattered.
+        11.In the Device Manager window, you notice a yellow exclamation mark next to a specific device. What is most likely the problem?
+         - The driver for that device is either missing or the wrong version.
+        12.What type of device uses the iOS operating system?
+         - An Apple mobile device
+        13.After installing an application, you experience difficulty getting it to run. What should you do?
+         -Inspect the properties of the executable file.
+        14.Why are server operating systems likely to include software packages (or roles)?
+         - They often use one role to run network services and a different role to support specific functions for more users.
+        15.You need to partition a disk into two separate drives. Where would you go to do this?
+         - Disk Management 
+        16.What needs to be installed on a PC to manage computer hardware and software resources?
+         - Operating system
+        17.If you can't end a task by closing it or ending it normally, what is the best way to "kill" the process?
+         - Use the Task Manager utility to end the task.
+        18.What is the purpose of firmware in an embedded system?
+         - Firmware provides all the functions for interacting with the device hardware. 
+        19.If you are interested in viewing real-time statistics of processor and memory usage, which Windows operating system tool should you open?
+         - Task Manager
+        20.How can you implement access control/protection on your computer?
+         - Create ordinary user accounts for day-to-day access to the computer.
+
+    3.2 Compare and contrast components of an operating system.
+
+        1.Which of these is NOT considered a best practice policy for naming files?
+         - Use spaces to add definite breaks in the name.
+        2.What computer systems use the extended Hierarchical File System (HFS)?
+         -Apple Mac workstations and laptops 
+        3.How do you install services on your computer?
+         - Services may be installed by Windows and by other applications, such as anti-virus, database, or backup software.
+        4.What system command would you enter to verify the logical integrity of a file system on a Windows machine?
+         - chkdsk.exe
+        5.What computer systems use the 4th extended file system (Ext4)?
+         - Linux boxes 
+        6.Which option does NOT describe benefit of journaling in Linux?
+         - Journaling will flush the cache at certain points in the journal.
+        7.What happens when a user running Word 2003 tries to open a .docx file?
+         - The file may cause issues, since it is a format that was created in Word 2007 or later.
+        8.What type of operating system is a .dmg file intended for?
+         - OS X
+        9.Where do you manage drivers on a computer?
+         - Device Manager
+        10.What Windows utility monitors the system for changes to core system files and drivers, as well as the registry?
+         - System Restore
+        11.How do you distinguish between tasks and processes/services?
+         - Tasks are usually the actions that the user or CPU directs in the foreground. Processes and services run in the background.
+        12.Where can the Task Scheduler be found?
+         - The Task Scheduler is accessed via its own console or the Computer Management console.
+        13.What should you expect to happen when double-clicking a .msi file?
+         - A program will begin installing.
+        14.What advantage does the File Allocation Table 32 (FAT32) have over the New Technology File System (NTFS)?
+         - FAT32 provides the best compatibility between different types of computers and devices.
+        15.What does a file management system use to control permissions for who is allowed to read, write, or control an object?
+         - An access control list (ACL)
+        16.What is the set of rules that determines what actions you are allowed to perform on a computer and what resources you can access?
+         - Permissions
+        17.What limitations should you consider when comparing different file systems?
+         - File systems are limited in terms of their maximum capacity and the size of individual files.
+        18.Which file extension indicates that the file is an audio clip?
+         - .wav
+        19.What type of utility software is intended to keep users safe from malicious code, such as viruses or Trojans?
+         - Anti-malware
+        20.What type of software allows you to reduce the size of files for the sake of transferring them from one location to another?
+         - Compression 
+        21.What is the advantage of using a Graphic User Interface (GUI) over the Command Line Interface (CLI)?
+         - GUIs make it easier for non-technical staff and home users to run and operate computers.
+        22.What is an advantage that the New Technology File System (NTFS) has over the File Allocation Table (FAT)?
+         - NTFS has larger partitions and supports extended attributes, allowing for file-level security permissions, compression, and encryption.
+        23.What type of file extension should be opened with caution, as it initiates instructions for the computer to carry out?
+         - .exe
+        24.While browsing through a set of directories, you see a folder called New Folder (2). What can you tell about this folder?
+         - There was already a folder called New Folder in the directory at the time it was created.
+        25.If you need to deliver several files to someone via email, what type of software would you use to bundle them into a single package for easy transmission?
+         - Compression
+        26.What is a file with a .zip extension?
+         - It is a compressed collection of one or more files.
+        27.Which of the following is NOT an example of a management Graphical User Interface (GUI) or interface snap-in or applet tool?
+         - The Command Line Interface
+        28.What service does the Windows BitLocker feature provide?
+         - It provides full disk-encryption protection for the operating system.
+        
+    3.3 Explain the purpose and proper use of software.
+
+        1.If you had to track and analyze sales data and work on your company accounts, which type of software would you use?
+         - Spreadsheet software
+        2.What software assists in the creation of a schematic representation of simplified drawings showing the appearance, structure, or workings of something?
+         - Visual diagramming software
+        3.What type of software do you need to use if your business functions cannot be performed by "off-the-shelf" software?
+         - Business-specific software
+        4.What does Remote Desktop software allow you to do?
+         - Access and control a different computer via the Internet
+        5.What type of software allows stakeholders and users to control costs and manage budgeting through project planning, scheduling, resource allocation, and change management?
+         - Project management software
+        6.Collectively speaking, screen sharing, video conferencing, instant messaging, and email are examples of what type of software?
+         - Collaboration software
+        7.What business software supports financial and commercial functions, such as order processing and payroll?
+         - Accounting software
+        8.Which type of software allows the user to write and edit a document?
+         - Word processing software
+        9.Which application is an example of collaboration software?
+         - Skype
+        10.Which type of software would you use to ensure everyone can see the same display output during an online meeting?
+         - Screen sharing software
+        11.When a file is hosted on a network that can be accessed by users signing in, where is it located?
+         - An online workspace
+        12.What type of software is Microsoft SQL?
+         - Database application
+        13.What type of software enables you to create sophisticated business briefs that can be projected for display?
+         - Presentation software
+        14.What type of software allows users to configure virtual meeting rooms to talk face-to-face over the Internet?
+         - Video conferencing software
+        15.A web application is client/server software that uses a web server as its server and what type of software as its client?
+         - A web browser
+        16.What type of software helps you compose and send messages over the network?
+         -Email client software
+        17.What type of business software would you use to store a large amount of information, such as timetables, customer details, and patient records?
+         - Database software
+        
+    3.4 Explain methods of application architecture and delivery models.
+
+        1.What is the advantage of a local network–hosted application, in terms of data storage?
+         - If data is stored on the server rather than the local workstation, it is easier to apply access controls and to back it up.
+        2.Which server application architecture model requires that the client NOT have direct communications with the data tier?
+         - Three-tier 
+        3.What type of application delivery method requires the least amount of infrastructure from the client?
+         - Cloud-hosted
+        4.What is the disadvantage of a “locally installed but network required” delivery method?
+         - If you lose network connectivity, you may lose some capabilities.
+        5.What operating system is considered to be stateless?
+         - Chrome OS
+        6.What is an advantage of having an application delivery method in which the application and files are saved locally?
+         - All of your data can be contained within your organization's firewall.
+        7.What type of application delivery method should be used when information is of high value to a user and it can’t easily be recreated or downloaded?
+         - Locally-installed application that runs from the local PC
+        8.If a computer is running a stateless operating system, where would the user's documents be stored?
+         - In the cloud
+        9.Which type of server application architecture model separates the database engine from the business logic?
+         - Two-tier application architecture model
+        10.Which type of application architecture model is considered "standalone"?
+         - One-tier
+        11.Which type of server application architecture model can have a complex architecture in which the application may use separate access control or monitoring services?
+         - N-tier
+        12.Which of the following application delivery models is considered the "traditional" way to install an application?
+         - Locally installed without the use of a network
+        
+    3.5 Given a scenario, configure and use web browsers.
+
+        1.How do you know if a certificate is valid on your browser?
+         - A padlock icon is shown.
+        2.Which of these is a clear warning from the browser that a certificate is invalid?
+         - The address bar is colored maroon and a warning message is displayed.
+        3.Where do you go to configure a pop-up blocker?
+         - Browser settings
+        4.How do you fully remove a browser add-on or extension?
+         - Find the location in which it was installed and remove it manually.
+        5.What is the best long-term solution to ensure compatibility with today’s web browsers?
+         - Upgrading web applications
+        6. How do you enable or disable add-ons?
+         - Go to the web browser settings.
+        7.What can a user do to prevent the browser from storing cookies or temporary files?
+         - Use private browsing mode.
+        8.What should you NOT do when configuring and managing a web browser, as it tends to break most websites?
+         - Deactivate client-side scripting
+        9.What type of software allows you to protect a network by denying specific types of incoming traffic?
+         - Firewall
+        10.When set in your browser, what can be configured to act as a firewall and apply other types of content filtering rules?
+         - Proxy settings
+        11.When using Windows, how can you best protect yourself against malicious scripts when browsing?
+         - Go to your User Account Control (UAC) and set up an alert in your notifications.
+        12.When using public workstations, what action should you always take before leaving a machine?
+         - Clear the browser cache before shutting down or logging off.
+        13.What can be done to change or extend the functionality of a web browser?
+         - Use browser add-ons.
+        
+    3.6 Compare and contrast general application concepts and uses.
+
+        1.What is the difference between a one-time purchase license and a subscription?
+         -A one-time purchase license requires fees for subsequent upgrades, whereas a subscription provides upgrades at no additional cost.
+        2.What type of license allows only a set number of users to access it at any one time?
+         - Concurrent 
+        3.What is NOT considered a challenge of using cross-platform applications?
+         - The performance of JavaScript/HTML5-based apps
+        4.What does the Boot Camp feature of a Mac allow you to do?
+         - Run a Windows operating system on a Mac
+        5.What type of license allows a company to install software on an agreed-upon number of computers so all employees can use the software at the same time?
+         - Group use/site
+        6.What should you be looking for when you read software licensing agreements?
+         - Verification that you have a valid agreement or license to install and use the product
+        7.What is an advantage of developing software using a single-platform model?
+         - The software can perform better, and it is easier to check the software for errors because it was tailor-made for a specific platform.
+        8.What should NOT be done before trying to install an application?
+         - Verify that the software will run on your computer by pressing the executable command
+        9.For what reason would you need to download a codec pack?
+         - Inability to view a video file of a certain format
+        10.How can you ensure that an operating system is always kept up to date on all Windows client devices in your network?
+         - Configure Automatic Updates to download and install as soon as they are available.
+        11.Where can you find the product key and serial number for your licensed computer?
+         - The product key is usually on the license sticker on the box and can also be found in the About option of the Help menu.
+        12.What security-related action helps protect the wireless router in your home?
+         - Setting up encryption and using a password
+        13.What is a characteristic of an open source software license?
+         - Users have the ability to access the code and the right to modify it.
+        14.You need to update a device that was installed two years ago. What action should you take to find the most recent updates?
+         - Visit the website of the company that manufactured the device.  
+        15.What is the preferred installation method when adding new software to a computer?
+         - Selecting the default installation options
+        16.Which of the following is NOT a best practice when installing software from a remote location?
+         - Install the program on the root of the C Drive.
+        17.What is a basic restriction found in software licensing?
+         - The software may only be installed on one computer.
+        18.What type of software license grants users permission to modify the code of the program as they see fit?
+         - Open source
+        
+4.0 Software Development
+
+    4.1 Compare and contrast programming language categories.
+
+        1.What language does VBScript share similarities with?
+         - JavaScript
+        2.How does a markup language, such as HTML, assist a program when rendering code?
+         - Markup language makes data in a document accessible to a program through structured tags.
+        3.How does assembly language work?
+         - It represents machine code in human-readable text.
+        4.Which of the following uses proper HTML5 syntax?
+         - <html> <body> <h1>Hello World</h1> <p>Say hello back to <a href="mailto:support@comptia.org">CompTIA</a>!</p> </body> </html>
+        5.Which negative factor must be considered when developing with interpreted languages?
+         - They must be converted into machine code, therefore increasing runtime.
+        6.In Hypertext Markup Language (HTML), what does the <html> tag do?
+         - The <html> tag is the top-level parent element that identifies the type of document.
+        7.Which of the following is NOT a compiled programming language?
+         - CSS
+        8.In terms of coding, what does the acronym XML stand for?
+         - eXtensible Markup Language
+        9.What is a program BEST described as?
+         - A sequence of instructions for your computer to perform
+        10.What is the key difference, in programming terms, between a procedure and a function?
+         - A function can return a value to whatever called it.
+        11.Why is it important to compile code before executing it?
+         - Compiling converts the source code into machine code for the CPU to process.
+        12.In Hypertext Markup Language (HTML), what does the <a> tag do?
+         - The <a> tag indicates that the content links to another resource.
+        13.Which of the following is NOT a comment line special delimiter?
+         - Dollar ($)
+        14.Which of the following is NOT important to consider when choosing a programming language?
+         - How large the source code file size will be after compiling the program
+        15.How is a script different than a program?
+         - A script is generally smaller and targeted at completing a specific task.
+        16.Why is it important to write comments when coding a program?
+         - It helps the developer read and maintain the code.
+        17.How does pseudocode present comments to maintain revisions?
+         - Comments are preceded by a special character syntax depending on the language being used.   
+        18.What is the key difference between Java and JavaScript?
+         - Java is a programming language, whereas JavaScript is a scripting language.
+        19.In Hypertext Markup Language (HTML), what does the <body> tag do?
+         - The <body> tag indicates the main part of the content as a page to show to the client.
+        20.Which statement BEST describes the overall purpose of Windows PowerShell?
+         - It enables you to perform management and administrative tasks in Windows 10 and Windows Server 2016 (and some earlier versions).
+        21.Most programming languages are similar in their structure and syntax, but it is important to use the specific syntax of a given language. Why?
+         - Using incorrect syntax creates errors, causing the code not to compile or run.
+        22.Which of the following HTML code snippets includes properly nested tags?
+         - <p><em>Hello World!</em></p>
+        23.Which of the following is NOT considered platform dependent?
+         - JavaScript
+        24.Which of the following is NOT a scripting language?
+         - Hypertext Markup Language
+        25.What is the primary function of markup language tags?
+         - They tell a client application (such as a browser) how to structure the document.
+        26.What programming language is VBScript based on?
+         - Visual Basic
+        27.Which statement BEST defines a virtual machine?
+         - It is used to operate multiple operating systems and virtual computers on existing hardware.
+        28.Which object is NOT utilized by Object-Oriented Programming (OOP)?
+         - Commands
+        29.How do compilers and interpreters respond to comments in your code?
+         - They ignore comments.
+        30.In Hypertext Markup Language (HTML), what does the <h1> tag do?
+         -The <h1> tag indicates that the content is a heading level.
+        31.What is the primary purpose of the Windows PowerShell Integrated Scripting Environment (ISE)?
+         - To help create and manage your Windows PowerShell scripts
+        32.What does the acronym SQL stand for?
+         - Structured Query Language
+        33.In Hypertext Markup Language (HTML), what does the <p> tag do?
+         - The <p> tag indicates the content is a paragraph-level block.
+        34.What does a programmer do?
+         - Works with programming language(s) to write code for applications
+        35.Which statement BEST describes batch files?
+         - They are a collection of command-line instructions that you store in a .CMD file.
+        36.Query languages, such as Structured Query Language, are designed for what purpose?
+         - To retrieve specific records from a dataset
+        37.What does a Java Virtual Machine (VM) do?
+         - The Java VM converts source code into machine code to run on the hardware platform.
+        38.How is machine code, the language that all computers speak, presented?
+         - In binary format as 1s and 0s
+
+    4.2 Given a scenario, use programming organizational techniques and interpret logic.
+
+        1.What purpose does branching in programming serve?
+         - It controls flow within a program based on specific conditions.
+        2.Which pseudocode creates a two-dimensional array?
+         - declare Logons(9,1) as string
+        3.Which psuedocode defines a one-dimensional array allowing up to ten rows?
+         - declare Logons(9) as string
+        4.Which pseudocode populates the first row and first column?
+         - Logons(0,0) = find LastLoggedOnUser and get Forename
+        5.When writing pseudocode, what are subroutines?
+         - Subroutines are blocks of code that represent duplicate tasks but have been defined separately.
+        6.Which pseudocode populates the first row and second column?
+         - Logons(0,1) = find LastLoggedOnUser and get Time
+        7.How is pseudocode used in programming?
+         - It is used to write informal programming code that is readable by humans.
+        8.Your team is developing a program and would like to create a visual representation of how it works. Which type would be most helpful?
+         - Flowchart
+        9.A program has a piece of code that needs to be repeated over and over until the condition has been fulfilled. What is this an example of?
+         - Looping
+        10.Which of the following is NOT an example of a function?
+         - While
+        11.What is the primary purpose of a flow chart?
+         - It visualizes the graphical sequence of a program.
+        12.What is the main difference between looping and branching?
+         - Loops are used to perform a task until a condition is met.
+        13.What is the function of an IF conditional statement in code?
+         - Part of the code only executes when certain conditions are true.
+        14.What would you use to instruct your computer to execute a different sequence of instructions?
+         - Branching
+        15.Which pseudocode adds a value to the first element in the array?
+         - Logons(0) = find LastLoggedOnUser and get Forename
+        
+    4.3 Explain the purpose and use of programming concepts.
+
+        1.Which of the following BEST describes the purpose of methods?
+         - They define what you can do to an object.
+        2.Constants are best used in which situation?
+         - When referencing a value that cannot be changed within a program
+        3.Which of the following BEST describes the purpose of attributes?
+         - They are values and data types that define the object.
+        4.Which is NOT a characteristic of a variable?
+         - A variable is a fixed value that does not change.
+        5.Which of the following BEST describes the purpose of properties in object-oriented programming?
+         - They allow external code to ask the object to show or change the value of one of its fields.
+        6.What key role do functions play in both consistency and functionality?
+         - They enable you to create segments of code that you will reuse.
+        7.You have created an identifier with a value that cannot be changed. What is this considered?
+         - A constant
+        8.Which of the following BEST defines the OR condition?
+         - If either condition is TRUE, then the whole statement is TRUE.
+        9.While writing a program, you notice that you use a value multiple times throughout your program but it doesn't change. You decide to create an identifier and assign the unchanging value to that identifier. What did you just create?
+         - A constant
+        10.Which of the following BEST defines the AND condition?
+         - If both conditions are TRUE, then the whole statement is TRUE.
+        11.Which of the following best defines a container?
+         - It is a special type of identifier that can reference multiple values or elements.
+        12.Given the equation "3821 __ 6598" during a logical test, which of the following operators would result in a TRUE condition?
+         - "<"
+        13.Which of the following BEST defines the XOR condition?
+         - If either, but not both, condition is TRUE, then the whole statement is TRUE.
+        14.Given the equation "-329 __ -2034" during a logical test, which of the following operators would result in a TRUE condition?
+         - ">="
+        15.During program execution, a value changes and returns a new value to be used. Which type of identifier is this?
+         - A variable
+        16.In which situation would you use a vector?
+         - To include a container that can grow or shrink in size as elements are added or removed
+        17.Which of the following accurately describes arrays?
+         - They can be either single-dimensional or multi-dimensional.
+        18.Given the equation "-39810 __ -39810" during a logical test, which of the following operators would result in a TRUE condition?
+         - "=="
+        19.Given the equation "4 __ 5" during a logical test, which of the following operators would result in a TRUE condition?
+         - "!="
+
+5.0 Database Fundamentals
+
+    5.1 Explain database concepts and the purpose of a database.
+
+        1.What are the steps in the process of creating a database?
+         - Determine how the database will be used by clients, where it will be hosted, and what information it will store.
+        2.Why is the level of data integrity greater in a database than in a flat file?
+         - A database can enforce data types for each column in a table, and can validate data as it is entered into those columns.
+        3.Why might a table called “Products” in a relational database have twelve rows?
+         - There are twelve products.
+        4.In a relational database, data is organized into tables that are made up of rows and columns. The term “record” is a synonym for which of these terms?
+         - Row
+        5.Why would a flat file system not be the optimum choice for data storage for an online shopping cart application?
+         - A flat file system doesn't support multiple concurrent users.
+        6.Which is the BEST example of importing data to populate a database?
+         - Data records that are already stored in a digital format can be loaded directly into a database.
+        7.Microsoft SQL Server is an example of what?
+         - RDBMS
+        8.When processing large numbers of transactions, how does processing speed compare between databases and flat file systems?
+         - Database processing speeds are much faster than flat file speeds.
+        9.Which would be the LEAST desirable architecture option for a database that requires a high degree of scalability?
+         - One-tier
+        10.Why do a report and a query work well together?
+         - A query can be used to extract only the data based on specified criteria, while a report can format and summarize the data making it easier to read and interpret.
+        11.How do Relational Database Management Systems (RDBMS) handle multiple users accessing the same database concurrently?
+         - Multiple users can view the same record at the same time. If more than one user attempts to update the same record at the same time, the RDBMS locks that record so that only one user at a time can update.
+        12.A manager needs to view last month’s sales figures. Which of the following functionalities can be done with a query statement?
+         - Specifying criteria to match values in one or more fields
+        13.What is the relationship between queries and reports?
+         - A query selects and retrieves the correct data, whereas a report formats and summarizes the output.
+        14.Which of the following statements best describes data persistence?
+         - Data in memory is lost once the processing is completed. Data in a database is stored persistently and securely so that it can be used again in the future.
+        15.Which language is typically used by Relational Database Management Systems (RDBMS) to maintain data?
+         - Structured Query Language (SQL)
+        16.What is a database?
+         - A database is a collection of related data organized in a structured manner for easier access.
+        17.Which is the correct sequence in the process of database creation?
+         - CREATE DATABASE   CREATE TABLE   INSERT INTO
+        18.What term is defined as the ability of a database to increase in size as more information is added to it without increasing costs at the same rate?
+         - Scalability
+        19.Which statement is NOT true regarding the relationship between a table and its components?
+         - A table always has the same number of columns as it has rows.
+        20.Why is a query an important tool in database processing?
+         - A query allows a user to extract only the data needed from a database by selecting specific rows and columns from a table.
+        21.In which order are the rows typically stored in a relational table?
+         - The order in which they were entered into the database
+
+    5.2 Compare and contrast various database structures.
+
+        1.In a database where each employee is assigned to one project, and each project can have multiple employees, which database design option would apply?
+         - The Project table has a primary key of ProjectID. The Employee table has a primary key of EmployeeID and a foreign key of ProjectID.
+        2.A database administrator is considering adding a primary key to enforce unique rows, defining a format for a phone number, and adding a rule so that a user must enter a date prior to today. What is the administrator adding to the database? 
+         - Constraints
+        3.What type of flat file contains plain text with delimiters to set apart the columns?
+         - Comma Separated Values (CSV)
+        4.Which of the following statements is true about a column in a table of a relational database?
+         - A column with naturally occurring unique values is a good choice to be the primary key.
+        5.You are designing a “Customer” table in a relational database. Which of the following fields would be the best candidate for a primary key?
+         - CustomerNumber
+        6.A field in a relational table corresponds to which part of a spreadsheet?
+         - A column
+        7.In a relational database, what is the relationship between a primary key and a foreign key?
+         - The primary key is in one table and it is matched to the foreign key in a secondary table.
+        8.What is the purpose of a schema?
+         - It describes the structure of a database.
+        9.In a relational database table, what is the significance of creating a field with a varchar data type?
+         - It allows a variable number of characters to be stored for a particular column in each row.
+        10.An attorney uses a standard form to capture information about new clients. Which type of database would best suit those needs?
+         - A relational database
+        11.How many students would be represented in a “Student” table containing 150 rows, 17 columns, 1 primary key, and 1 foreign key?
+         - 150
+        12.How is a relational table structured?
+         - A table is made up of rows and columns, where all of the rows include the same columns.
+        13.Structured databases work well, but why is it sometimes a better choice to store data in unstructured and semi-structured databases?
+         - There are certain types of data (PowerPoint presentations, text files, Word documents, etc.) that are more easily stored without the rigid formatting a structured database requires.
+        14.Why is it important to consider the number and size of columns included in a table schema?
+         - The size of each row affects the amount of storage used, and how quickly it can be processed.
+        15.How is a key/value pair database different from a relational database?
+         - In a relational database, all attributes of a record are defined up front, and each record has all of the same attributes as the other records. In a key/value pair database, objects and their properties are stored, but each object doesn’t have to have all of the properties.
+        16.Your manager has asked you to display the customer database schema. What useful information will your schema provide?
+         - The structure of the database
+        17.Which software package is a Relational Database Management System (RDBMS)?
+         - Microsoft SQL Server
+        18.Why might a language like Extensible Markup Language (XML) be commonly used in a document database?
+         - XML makes it easier to parse and sort through the data in a variety of types of documents.
+        
+    5.3 Summarize methods used to interface with databases.
+
+        1.What is a true statement about Data Definition Language (DDL)?
+         - It comprises SQL commands that can add to or modify the structure of a database.
+        2.You’ve written an SQL query for an “Order” table: SELECT ProductName, Price from ProductMaster. Now your mentor asks you to add this line to your query: ORDER BY PRICE.
+         - The list of product names and prices will now be sorted by price.
+        3.Which statement is NOT true regarding the SQL INSERT statement?
+         - It is a data definition language statement.
+        4.Which is the best way to issue SQL commands to manipulate data in a relational database?
+         - It depends on the user’s level of SQL experience, overall purpose, and access permissions.
+        5.You've been tasked with changing the primary key in the Customer table from the CustID field to the AcctNum field. Which Data Definition Language (DDL) command can do that?
+         - ALTER TABLE
+        6.Why is a client-server application considered a two-tier architecture?
+         - The database runs on a database server, while the application is run on the client computer.
+        7.Why might a database dump be a good option for backup/restore?
+         - A database dump includes both the database data and the structure, so it could be restored whether the offending error was in the data or in the structure.
+        8.You submitted the following SQL command for a “Customer” table: DELETE FROM CUSTOMER.  What happened next?
+         - All of the records from the “Customer” table were deleted.
+        9.Why is the process of generating backups such an important feature of an RDBMS?
+         - A database can contain mission-critical data, which an organization may not be able to afford to lose.
+        10.Which of the following is the best example of a direct/manual database access method?
+         - Log into phpMyAdmin and run SQL statements at the command prompt.
+        11.Which statement is NOT true regarding SQL permissions?
+         - The owner of a table can assign only the permission to view (not update) data in the table to other users.
+        12.What is the purpose of the SQL DROP command?
+         - To delete a table or an entire database      
+        13.What is the term used for the file that includes a copy of the database along with the schema?
+         - Database dump
+        14.In the event of an application failure, which application architecture model would be the most disruptive to users?
+         - Standalone
+        15.In a database application, what is the difference between a form and a report?
+         - Both display data, but a form can be used to update the contents of the database as well.
+        16.You have been placed on a project to update the addresses of customers in a “Customer” table. Who can issue the SQL commands to give you permission to update the data in that table?
+         - The owner of the “Customer” table
+        17.Which type of constraint is added to a table for the purpose of establishing a relationship with another table?
+         - Foreign key
+        18.Who would typically use a query/report builder to access database data?
+         - Power users and programmers
+        19.Adding a new relational database, table, or index is a function of which Data Definition Language (DDL) command?
+         - CREATE
+        20.The use of a Graphical User Interface (GUI) to allow users to search and add records is an example of which type of database access method?
+         - User interface/utility
+        21.What is the SQL UPDATE command used for?
+         - To change the value in one or more fields in a table
+        22.Queries often retrieve data from multiple tables. If the same column name is used in two tables, how does SQL know which column to use?
+         - In the SELECT statement, the column name is prefixed by the table name.
+        23.In a situation where a PC-based database and an application are both hosted on the same computer, what is the application architecture called?
+         - One-tier
+        24.What is the difference between the DELETE and DROP commands in SQL?
+         - DELETE deletes rows from a table, whereas DROP eliminates the entire table.
+        25.What is the purpose of the SQL INSERT command?
+         - It adds a new row to a table in a database.
+        26.Using a programmatic database access method to interact with a relational database would require what type of commands?
+         - SQL
+        27.What does the query SELECT * FROM Customers WHERE state = ‘MN’ return as an answer?
+         - All fields in the “Customers” table, for those rows where the value of the state column is ‘MN’
+        
+6.0 Security
+
+    6.1 Summarize confidentiality, integrity, and availability concerns.
+
+        1.How can an administrator reduce the impact of hardware failures?
+         - Provisioning redundant servers and configure a service to failover to a working server
+        2.What action can help mitigate against the risk of Man-in-the-Middle (MitM) attacks?
+         - Making senders and receivers authenticate themselves and use encryption to validate messages
+        3.In which type of email-based social engineering attack does a person pretend to be someone else for the purpose of identity concealment by manipulating an IP address, MAC address, or email header?
+         - Spoofing
+        4.What security practice can a company use to protect its valuable data from catastrophic natural threats?
+         - Creating backup data on servers in other facilities across the country
+        5.Which is an availability-related factor to consider when choosing a third-party cloud service provider?
+         - Fault tolerance
+        6.Which action is an example of an appropriate redundancy measure?
+         - Using a backup power generator in a hospital to provide electricity to critical life-support systems
+        7.You no longer need the data on a hard copy. How can you ensure confidentiality when disposing of the data?
+         -Put it through a shredder.
+        8.What term describes the threat of someone stealing hard copies that have been thrown out?
+         - Dumpster diving
+        9.If the IT administrator asks you to prevent snooping by sanitizing an old hard drive, what action should you take?
+         - Thoroughly delete and overwrite any traces or bits of sensitive data on the hard drive.
+        10.What action can help mitigate the risk of unexpected power outages?
+         - Using a backup source, which provides a means to safely close down a server
+        11.How do cyber criminals typically use wiretapping to steal information?
+         - Using a hardware device that inserts the hacker between two hosts
+        12.What is an email-based threat that presents various advertising materials, promotional content, or money-making schemes to users?
+         - Spam
+        13.While working at your desk, you get a call from your bank. The representative tells you that he needs you to confirm your account number and password. What is the likely reason for this call?
+         - This is most likely an illegitimate attempt to extract information from you.
+        14.As you are about to enter a secured building, a stranger waiting outside tells you he is a recent hire and asks you to let him in because he forgot his swipe card. What type of security attack is this?
+         - Impersonation
+        15.Which of the following examples illustrates a successful phishing attack?
+         - A user replies to an email with his bank account number because the message indicated he was required to do so.
+        16.What technique would a hacker use to target the availability of network services?
+         - Compromise hosts with bot malware to launch a coordinated attack that overwhelms a web service
+        17.You find you are unable to control your computer, and a message on the screen states that you must pay a fee before you can once again assume control of your computer. Which type of malware is infecting your computer?
+         - Ransomware
+        18.If someone claims to be receiving spim, what problem is occurring?
+         - The person is receiving advertising or promotional schemes through instant messaging.
+        19.What best practice can prevent a malicious person from snooping on a victim’s computer when the victim walks away?
+         - Locking the Windows computer by holding down the “Windows Logo Key” and pressing the “L” key
+        20.What action can help mitigate the risk of replay attacks?
+         - Ensuring that applications use encryption and time-stamping to make certain that the tokens cannot be misused
+        21.What is the best tactic for defeating social engineering?
+         -Training users to recognize and respond to social engineering situations  
+        22.What is a social engineering attack?
+         - An attack that depends on human factors and deception rather than technology
+        23.What technique can be used to prevent eavesdropping on a data network?
+         - Encrypting data in-transit
+        24.What action can help mitigate the risk of impersonation attacks?
+         - Implementing strong identity controls, such as badging systems for building access and multi-factor authentication for network access
+        
+    6.2 Explain methods to secure devices and best practices.
+
+        1.A software firewall that is capable of content filtering can perform what action?
+         - Allow or deny specific attachment and payload types, keywords, and file formats
+        2.You are notified that your computer has a worm that is actively replicating across the network. What should you do first?
+         - Disconnect the network link
+        3.What should be done if a needed device driver has been “abandoned” by the original manufacturer?
+         - Search forums and other sites for information that may, or may not, legitimize a third-party’s driver package.
+        4.If someone refers to an application as "bloatware," what are they saying about it?
+         - The program consumes an excessive amount of system resources.
+        5.After antivirus software detects a virus, what action does the software most commonly take next?
+         - It quarantines the virus and prevents it from being opened.
+        6.For security purposes, what piece of information should be changed immediately when setting up a wireless router?
+         - Administrator password   
+        7.What is the general term for any unwanted software that has the potential to damage a system or impede performance?
+         - Malware
+        8.A user complains about needing to enter a password to access a workstation and wants it removed. What explanation should you give the user before denying the request?
+         - Passwords prevent others from impersonating the user and protect from snooping.
+        9.What action can be taken to help validate that software comes from a legitimate source?
+         - Ensuring that driver software is digitally signed by the vendor
+        10.What typically happens when you visit a website that does not have a valid digital certificate?
+         - The browser will display an invalid certificate warning and ask if you want to proceed.
+        11.What is the purpose of patching systems?
+         - To harden systems by keeping operating system files, driver software, and firmware updated
+        12.Which is NOT a legitimate source for obtaining setup files or device drivers?
+         - Third-party sites such as download.cnet.com
+        13.Why should you change default passwords for software and services?
+         - Default passwords are usually not strong enough.
+        14.What technique is best used when a computer is infected with multiple instances of malware?
+         - Wipe the hard drive and reinstall from a recent clean backup
+        15.After you finish installing a fresh copy of Windows, you notice that several unnecessary applications were automatically installed as part of a bundle with the operating system. What should you do?
+         - Uninstall any unnecessary applications by using the uninstall feature
+        16.What is the process of disabling unused services and default guest accounts, renaming accounts, and setting up security measures (such as a firewall) on a system?
+         - Device hardening
+
+    6.3 Summarize behavioral security concepts.
+
+        1.What is a privacy concern related to instant messaging?
+         - Instant messaging on corporate networks is subject to review by employers.
+        2.What is the difference between a standard and a procedure?
+         - A standard is a measure by which to evaluate compliance with policy.
+        3.What value is gained from a comprehensive written policy?
+         - It removes any uncertainty that employees may have about what to do in a given situation.
+        4.What type of consent is recommended prior to processing and/or storing customer confidential information?
+         - Explicit consent, after explaining how the information will be used and/or stored
+        5.How do social networking sites attempt to handle privacy concerns for users?
+         - They allow information to be classified, such as marking it as public or private.    
+        6.What is a privacy concern related to email?
+         - Email is often not encrypted from end to end, meaning there is no privacy assurance.
+        7.Which of the following is NOT an example of Personally Identifiable Information (PII)?
+         - A trade secret
+        8.What is a privacy concern related to free file storage sites?
+         - The company may use metadata from your files for advertising and marketing purposes. 
+        9.What are the expectations of privacy when using business software within a company?
+         - Company policy is used to clarify the complete lack of privacy when using business software at work.
+        10.What is one method companies use to collect data from desktop apps?
+         - Asking users for permission to send “usage and troubleshooting” data back to the vendor for analysis
+        11.Where can an employee look to find details about privacy and monitoring of a corporate network?
+         - An Acceptable Use Policy (AUP)
+        12.How do mobile and desktop apps compare in regard to security and privacy?
+         - Mobile apps and desktop apps each have their own security concerns and are equally insecure.
+        13.Which is NOT an example of company confidential information?
+         - A physical address
+        14.Which scenario is an example of shoulder surfing?
+         - Someone steals your password or PIN after watching you type it in
+
+    6.4 Compare and contrast authentication, authorization, accounting, and non-repudiation concepts.
+
+        1.Which of the following describes Discretionary Access Control (DAC)?
+         - An authorization access model that stresses the importance of the owner who has full control over the resource
+        2.What is the authorization concept known as least privilege?
+         - A principle stating that a user should be granted rights necessary to perform a job and nothing more
+        3.What is rule-based access control?
+         - An authorization access model in which access is based on policies that are non-discretionary
+        4.In which of the following scenarios is multifactor authentication being used?
+         - A secured room requires a user to swipe an ID badge and then type in a PIN code.
+        5.Which non-repudiation mechanism records who goes in or out of a particular area without user interaction?
+         - A video surveillance camera
+        6.Which non-repudiation mechanism proves that a user requested a product and that it was delivered?
+         - A token or receipt
+        7.What is Role-based Access Control (RBAC)?
+         - An authorization access model that groups users based on administrative or job functions
+        8.What is the purpose of authorization?
+         - To ensure that the person has the right to access a file or perform an action
+        9.Which of the following is NOT used as a primary authentication factor?
+         - Somewhere you are
+        10.Logging events in an audit log is what part of the access control system?
+         - Accounting
+        11.Where does tracking users’ actions fit within the access control system?
+         - It is part of accounting and is required for non-repudiation.
+        12.Which factor of authentication can be stolen and replayed from a remote location?
+         - A software token
+        13.Which non-repudiation mechanism can prove that the user was an author of a document?
+         - A physical or digital signature
+        14.Which non-repudiation mechanism can prove that a person was genuinely operating an account and that it was not hijacked?
+         - A biometric authentication device
+        15.What service must be enabled for you to log on to multiple resources, servers, or sites using a common account and password?
+         - Single Sign On
+        16.Which example uses single-factor authentication?
+         - A website requires a username, a password, and a PIN number.
+        17.A passphrase is a longer version of which factor of authentication?
+         - A password
+        18.How does RSA’s SecurID token provide multi-factor authentication?
+         - It generates a number code synchronized to a code on a server and is combined with a PIN.
+        19.Which of the following is a common concern regarding the accuracy of biometrics?
+         - The false-negative and false-positive rate
+        20.What is the authorization concept known as implicit deny?
+         - A principle stating that access requires explicit authorization and everything else is rejected
+        21.What is the set of rules that determines what actions you are allowed to perform on a computer and what resources you can access?
+         - Permissions
+        22.Which “something you have” authentication factor can be used to access high-risk applications?
+         - A hardware token
+        23.What information can be used as a response to a security question?
+         - Personally Identifiable Information (PII)
+        24.What configuration change can help collect tracking information for accountability purposes?
+         - Preventing users from clearing web browsing history
+        25.Which of the following describes Mandatory Access Control (MAC)?
+         - An authorization access model that has security clearance levels or compartments
+        26.A Personal Identification Number (PIN) is which type of authentication factor?
+         - “Something you know,” because you must remember the digits
+        27.Which type of account would grant you complete access to a computer?
+         - Administrator
+        
+    6.5 Explain password best practices.
+
+        1.What can you do to prevent your account from being hacked by repeated guessing attempts?
+         - Configure account lockout.
+        2.What action should a system take after a user resets the password?
+         - Log the action and inform the user via their registered email address
+        3.What is a weakness of password managers?
+         - A user must trust that the application storing the passwords is secure and cannot be cracked.
+        4.After one of your passwords is stolen from a hacked website, you later learn that someone has accessed your bank accounts at two different companies.
+        What weakness allowed the attacker access the two separate bank accounts?
+         - Poor password management with reuse across many sites
+        5.What is a best practice that you can use to protect your password?
+         - Changing your password every 60 to 90 days
+        6. One of the most basic security rules is to use passwords that are "easy to remember but difficult to guess." Which password security measure covers this rule?
+         - Password complexity
+        7.How can an administrator help make sure that a stolen password cannot be misused indefinitely?
+         - Configuring a password expiration period
+        8.What password length is acceptable for an ordinary user account?
+         - Nine to twelve characters
+        9.What type of password attack involves comparing encrypted passwords against a predetermined list of possible password values?
+         - A dictionary attack
+        10.When you attempt to change a password, the system returns an error indicating that the new password cannot be the same as the previous five passwords.
+         - Maintaining a password history
+        11.Which scenario is an example a stealing a password via a brute-force attack?
+         - An attacker uses password-cracking software to attempt every possible alphanumeric password combination.
+        12.Which of the following is a characteristic of a strong password?
+         - It uses a combination of uppercase, lowercase, numeric, and special characters.
+        
+    6.6 Explain common uses of encryption.
+
+        1.What type of threat does disk-level encryption protect against?
+         - Information snooping after the theft of a laptop
+        2.What does a URL that begins with "https://" signify?
+         - It is an SSL-enabled web address.
+        3.Transport encryption protects data that is in which state?
+         - Data in-transit
+        4.What type of network uses tunneling to encrypt data, protecting communications between two endpoints sent through a public network?
+         - A Virtual Private Network (VPN)
+        5.What is the difference between plain text and cipher text?
+         - Plain text is an unencrypted message, whereas cipher text is an encrypted message.
+        6.What option on iOS protects email and other apps’ data at-rest by using encryption?
+         - The “Data Protection” option
+        7.A user plans to travel and needs to remotely connect to the corporate network. What technology can be used to accomplish this?
+         - A VPN tunnel over an insecure connection
+        8.A user wants to transmit a sensitive file via an unsecure method such as email. What technique would you recommend?
+         - Using file-level encryption
+        9.What type of encryption is used by mobile applications to encrypt data in-transit?
+         - Public Key Infrastructure (PKI)
+
+    6.7 Explain business continuity concepts.
+
+        1.What is a recommended technique for restoring access to users after disaster recovery?
+         - Restricting user numbers initially so that the system can be monitored and verified as working normally
+        2.Which type of backup medium protects you from a catastrophic natural event in your area?
+         - An offsite repository
+        3.Which of the following is a key aspect of a fault tolerant system?
+         - Avoidance of single points of failure
+        4.What power redundancy technique can be used to provide short-term relief from a power outage?
+         - Installing an Uninterruptible Power Supply (UPS) on enterprise servers
+        5.What is a challenge encountered when backing up databases that are always in use?
+         - It requires replication and online backups.
+        6.What fault tolerance technique can allow quick recovery during power outages and network failures?
+         - Creating dispersed redundant data centers and replicating information in real time
+        7.What is a disadvantage of Network Attached Storage (NAS) as a backup and restore plan?
+         - It is located onsite, which means it does not protect against all threats.
+        8.What is the difference between business continuity and disaster recovery?
+         - Disaster recovery creates workflows and resources to use when a specific scenario affects an organization.
+        9.What needs to be considered when deciding priorities for restoring systems as part of disaster recovery?
+         - Dependencies between different systems
+        10.Which of the following is a method of verifying a backup of critical files?
+         - Having one of the files restored
+        11.Which Redundant Array of Independent Risks (RAID) involves striping data across multiple disks and uses parity data?
+         - RAID 5
+        12.What is a significant advantage of cloud-based backups?
+         - The backups are geographically dispersed.
+        13.What network redundancy technique can be used at the server level (i.e., on a domain controller) to prevent the loss of important domain functionality?
+         - Installing multiple network cards or adapters and configuring load balancing with failover
+        14.Where is it recommended that data be backed up?
+         - An external device or digital media
+        15.What type of backup makes an “image” of a system and then restores a computer?
+         - A bare metal backup
+        16.What is the primary purpose of storing backups in an offsite location?
+         -Valuable data is protected in case of a disaster.
+        17.What is the process of recovering stored copies of critical files and folders from another medium?
+         - Data restoration
+        18.Which is NOT an example of a contingency plan?
+         - Switches are installed in closets within each building where employees work.
+
+
+                                            KONIEC
+            
+
+
+        
+
+
+
+
+
+
+
+
+
+    
+        
+
+
